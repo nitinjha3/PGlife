@@ -1,0 +1,10 @@
+h1{
+   
+    border: solid 2px green;
+    display: inline;
+    margin: 12px;
+}
+p {
+    border :solid 1px blue;
+    
+}
